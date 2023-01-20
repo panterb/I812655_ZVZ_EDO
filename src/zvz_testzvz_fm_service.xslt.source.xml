@@ -1,0 +1,13 @@
+<!--
+object    TABL
+obj_name  ZVZ_TESTZVZ_FM_SERVICE
+-->
+<?sap.transform simple?>
+<tt:transform xmlns:tt="http://www.sap.com/transformation-templates">
+
+<tt:root name="ROOT"/>
+
+<tt:template>
+</tt:template>
+
+</tt:transform>
